@@ -23,6 +23,7 @@ body {
   display: flex;
   justify-content: center;
   border-top: 1px solid #687291;
+  box-sizing: border-box;
 }
 
 .box:nth-child(odd) {

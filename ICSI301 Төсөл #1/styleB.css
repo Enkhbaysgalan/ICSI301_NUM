@@ -25,6 +25,7 @@ body {
   margin-right: 10px;
   white-space: nowrap;
   float: left;
+  box-sizing: border-box;
 }
 
 .box:hover {
